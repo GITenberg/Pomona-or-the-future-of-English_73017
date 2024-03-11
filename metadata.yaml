@@ -1,0 +1,37 @@
+_repo: Pomona-or-the-future-of-English_73017
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Selincourt, Basil
+    aliases:
+    - Selincourt, Basil De
+    - Sélincourt, Basil de
+    - Selincourt, Basil de
+    birthdate: 1876
+    deathdate: 1966
+    gutenberg_agent_id: '56910'
+    url: http://www.gutenberg.org/2009/agents/56910
+    wikipedia: https://en.wikipedia.org/wiki/Basil_de_S%C3%A9lincourt
+description: ''
+gutenberg_issued: '2024-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73017'
+  lccn: '28006331'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015008020367
+pgterms:marc905: 20230313042449deslincour
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language'
+- !lcc 'PE'
+- GITenberg
+title: Pomona; or, the future of English
+url: http://www.gutenberg.org/ebooks/73017
